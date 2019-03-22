@@ -1,0 +1,17 @@
+html, body, #root, .app-container {
+height: 100%;
+}
+
+.app-container {
+  padding: 0;
+  margin: 0;
+  background-color: #f1f1f1;
+}
+
+.navigation-bar {
+  padding: 1.5rem;
+}
+
+.width-100 {
+  width: 100%;
+}
